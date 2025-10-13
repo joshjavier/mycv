@@ -1,4 +1,4 @@
-name: get-user
+name: get user
 url: http://localhost:3000/auth/:id
 path_params:
 - name: id

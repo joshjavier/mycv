@@ -1,0 +1,2 @@
+name: whoami
+url: http://localhost:3000/auth/whoami

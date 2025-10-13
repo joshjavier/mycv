@@ -1,4 +1,4 @@
-name: get-user-by-email
+name: get user by email
 url: http://localhost:3000/auth
 params:
 - name: email

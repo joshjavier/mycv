@@ -1,0 +1,3 @@
+name: sign out
+method: POST
+url: http://localhost:3000/auth/signout

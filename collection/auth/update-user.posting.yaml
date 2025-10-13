@@ -1,4 +1,4 @@
-name: update-user
+name: update user
 method: PATCH
 url: http://localhost:3000/auth/:id
 body:
