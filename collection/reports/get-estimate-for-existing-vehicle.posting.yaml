@@ -1,0 +1,15 @@
+name: get estimate for existing vehicle
+url: http://localhost:3000/reports
+params:
+- name: make
+  value: toyota
+- name: model
+  value: corolla
+- name: lng
+  value: '0'
+- name: lat
+  value: '0'
+- name: mileage
+  value: '20000'
+- name: year
+  value: '1980'
