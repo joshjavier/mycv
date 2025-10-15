@@ -1,0 +1,13 @@
+name: login
+method: POST
+url: http://localhost:3000/auth/signin
+body:
+  content: |-
+    {
+      "email": "bob@test.com",
+      "password": "burgerbob"
+    }
+  content_type: application/json
+headers:
+- name: content-type
+  value: application/json
